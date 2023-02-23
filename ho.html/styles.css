@@ -1,0 +1,93 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+html{ background-image: url("wvqb1sl1hvt91.webp");
+background-size: contain;}
+body {
+   
+    margin: 0 auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+    text-align: center;
+   width:800px;
+    background-color:#04ae459f ;
+    border: 5px double whitesmoke;
+    border-radius: 10px;
+    font-family: 'Zeyada';
+}
+h1{padding:10px 5px 0px 5px;
+   
+text-shadow: 2px 2px 4px #4a417e;}
+h2{font-family: 'EB Garamond';
+background:#5edde7;
+color:#013a34;
+padding: 8px;}
+#h{padding: 8px;
+    font-family: 'EB Garamond';
+    
+color: #013a34;}
+img {
+    width: 125px;
+   
+}
+.bahir{
+    background-image:url("bahir.jpg");
+    background-size: cover;
+    height: 250px;
+  
+}
+.beauty{
+    background-color: #A8DADC;
+margin-bottom: 20px;
+
+}
+.beautyy{
+     height: 250px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+       }    
+     .ima{
+        border-radius: 50%;
+     }
+.guide{ margin-bottom: 20px;}
+@keyframes sabella {
+    from {background-color: #426a3bd2;}
+    to {background-color: #F1FAEE ;}
+  }
+.guidee{ display: flex ;
+    background:#F1FAEE ;
+width:500px;
+    height:150px;
+    margin:0 auto;
+justify-content:center;
+text-align: center;
+
+padding:20px;
+border:1px solid  #9582df;
+border-radius: 8px;
+border-bottom: 5px solid lightskyblue;
+animation-name: sabella;
+    animation-duration: 4s;
+    animation-iteration-count: 2;
+   }
+.pic{
+    border-radius: 10px;
+
+}
+
+#dar{
+    color: black;
+    text-decoration-line: none;
+    border-bottom: 1px solid #064145;
+ 
+}
+#dar:hover{background: #064145;
+   color: #F1FAEE ;}
